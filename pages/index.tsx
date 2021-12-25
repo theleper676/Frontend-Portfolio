@@ -8,7 +8,7 @@ const Page: NextPage = () => {
       
       <Box flexGrow={'3'}>
       <Heading as='h2'>Yoav Levin</Heading>
-      <p>Frontend / Fullstack developer</p>
+      <p>Frontend - Fullstack developer</p>
       </Box>
     </Box>
       )
